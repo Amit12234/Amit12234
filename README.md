@@ -1,5 +1,8 @@
 # 💫 About Me:
-🎓 Currently completing my Graduation in the field of Computer Science and Engineering at Amity University.<br>💡  Some technologies I enjoy working with include JavaScript, React JS and Python. Currently exploring Machine Learning and Artificial Intelligence.<br>🌱 I'm on track for learning more about Open Source and various other topics like:<br>      Practicing DSA on LeetCode.<br>      Looking up for various opportunities.<br><br>
+💼 Software Engineer at Kyndryl, working on Python-based backend automation, distributed CI/CD systems, and cloud workflows on Azure.<br>
+💡 I enjoy building reliable backend systems, debugging complex multi-environment issues, and optimizing workflows using DSA and OOP principles.<br>
+🌱 I’m actively strengthening my skills in system design, scalable systems, and exploring how AI-powered tools can enhance engineering workflows and decision-making.<br>
+🎓 Computer Science & Engineering graduate from Amity University with a strong foundation in core CS fundamentals.<br><br>
 
 
 ## 🌐 Socials:
